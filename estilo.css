@@ -10,11 +10,12 @@
 
 body{
 background-color: aqua;
-color: red;
-font-family: "Pliant", sans-serif;
+color: rgb(0, 0, 0);
+font-family :"Pliant", sans-serif;
 
 }
 .cabecalho{
-background:-color: black;
-text-align: center;
+  background:-color: black;
+  text-align: center;
+  padding:20px;
 }
