@@ -33,3 +33,8 @@ main{
 .texto-post{
   margin-left: 40px;
 }
+
+.imagem-post{
+  width: 80px;
+  height: 80px;
+}
